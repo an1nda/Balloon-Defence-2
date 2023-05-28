@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Coconut
+comment0.text=\r\n\ The\ Orangutan's\ weapon\ of\ choice,\ high\ speed\ coconuts.\r\n\ \r\n\ @author\ Aninda\ Saha\ \r\n\ @version\ Jan\ 2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ Moves\ the\ Coconut\ and\ actively\ checks\ for\ \r\n\ collisions.\ This\ method\ is\ called\ whenever\ the\ \r\n\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ fly()
+comment2.text=\r\n\ Moves\ the\ Coconut\ in\ the\ direction\ it\ is\ facing.\r\n
+comment3.params=
+comment3.target=void\ popAndMiss()
+comment3.text=\r\n\ Checks\ if\ the\ Coconut\ has\ hit\ a\ balloon\ or\r\n\ hit\ the\ edge,\ and\ properly\ updates\ the\ accuracy\r\n\ variables\ in\ the\ MyWorld\ class.\r\n
+comment4.params=
+comment4.target=void\ remove()
+comment4.text=\r\n\ Removes\ the\ Coconut\ from\ the\ World.\r\n
+numComments=5

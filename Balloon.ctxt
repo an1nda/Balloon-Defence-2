@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Balloon
+comment0.text=\r\n\ The\ enemies\ of\ the\ Orangutan\ trying\ to\ complete\ the\ race.\r\n\ \r\n\ @author\ Aninda\ Saha\ \r\n\ @version\ Jan\ 2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ Moves\ the\ balloon\ at\ the\ speed\ defined.\ The\ \r\n\ value\ is\ negative\ because\ the\ balloons\ move\ left.\r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\r\n\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=spd
+comment2.target=void\ increaseSpeed(int)
+comment2.text=\r\n\ Takes\ a\ parameter\ and\ makes\ it\ the\ speed\ of\ the\ balloon.\r\n\ The\ parameter\ is\ multiplied\ by\ -1\ to\ make\ the\ balloon\r\n\ move\ left\ instead\ of\ right.\r\n
+numComments=3

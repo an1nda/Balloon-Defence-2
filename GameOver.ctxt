@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ The\ end\ screen\ when\ the\ Orangutan\ runs\ out\ of\ lives.\r\n\ \r\n\ @author\ Aninda\ Saha\r\n\ @version\ Jan\ 2021\r\n
+comment1.params=
+comment1.target=GameOver()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOver.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Checks\ to\ see\ if\ there\ is\ a\ new\ high\ score\ as\ well\r\n\ as\ restarting\ the\ game\ with\ an\ input.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAccuracy()
+comment3.text=\r\n\ Returns\ a\ String\ value\ of\ the\ accuracy\ of\ the\ player.\ \r\n
+comment4.params=
+comment4.target=int\ getAccuracyInt()
+comment4.text=\r\n\ Returns\ an\ int\ value\ of\ the\ Accuracy\r\n
+numComments=5

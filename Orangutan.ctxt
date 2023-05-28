@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Orangutan
+comment0.text=\r\n\ The\ Hero\ of\ the\ game,\ defending\ the\ race\ track\ from\ balloons\r\n\ \r\n\ @author\ Aninda\ Saha\r\n\ @version\ Jan\ 2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ Turns\ the\ Orangutan\ as\ well\ as\ creating\ the\r\n\ Coconut\ being\ thrown.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ throwCoconut()
+comment2.text=\r\n\ This\ method\ obtains\ mouse\ information\ of\ the\ user\r\n\ and\ creates\ a\ new\ Coconut\ object\ turned\ towards\r\n\ the\ location\ of\ the\ mouse.\ The\ if\ statement\ is\ to\r\n\ prevent\ errors\ if\ the\ mouse\ is\ not\ giving\ info.\r\n
+comment3.params=mi
+comment3.target=void\ turnTo(greenfoot.MouseInfo)
+comment3.text=\r\n\ This\ method\ turns\ the\ image\ of\ the\ orangutan\ towards\r\n\ the\ mouse\ by\ getting\ the\ mouse\ values\ as\ a\ parameter.\r\n
+numComments=4

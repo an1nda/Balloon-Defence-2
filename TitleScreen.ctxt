@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment0.text=\r\n\ The\ Title\ Screen\ for\ Balloon\ Defence\ 2\r\n\ \r\n\ @author\ Aninda\ Saha\r\n\ @version\ Jan\ 2021\r\n
+comment1.params=
+comment1.target=TitleScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TitleScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ Checks\ for\ input\ to\ change\ the\ world\ to\ the\r\n\ game\ world.\ This\ method\ is\ called\ whenever\ the\ 'Act'\r\n\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkForMusic()
+comment3.text=\r\n\ This\ method\ plays\ the\ music\ and\ checks\ if\ it\ is\ still\ running\r\n\ to\ prevent\ the\ song\ from\ playing\ overtop\ of\ itself.\r\n
+numComments=4

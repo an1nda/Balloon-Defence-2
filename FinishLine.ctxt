@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FinishLine
+comment0.text=\r\n\ The\ End\ Goal\ for\ the\ Balloons\r\n\ \r\n\ @author\ Aninda\ Saha\r\n\ @version\ Jan\ 2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ Actively\ checks\ if\ a\ Balloon\ has\ touched\ it.\ \r\n\ This\ method\ is\ called\ whenever\ the\ 'Act'\ or\ 'Run'\ \r\n\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ missedBalloon()
+comment2.text=\r\n\ This\ method\ checks\ if\ a\ Balloon\ is\ touching\ the\ \r\n\ finish\ line\ and\ updates\ the\ health\ value\ in\r\n\ the\ MyWorld\ class.\r\n
+numComments=3
